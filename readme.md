@@ -48,17 +48,11 @@ Hello! Welcome to my GitHub profile. I'm Neon, and this special repository serve
 ###
 
 <div align="center">
-  <a href="https://youtube.com/@NeonKatVTYT" target="_blank">
+  <a href="https://youtube.com/@NeonKatVT" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=2A2A2A&style=plastic" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://instagram.com/NeonKatVTinsta" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=2A2A2A&style=plastic" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://twitch.tv/NeonKatVTLive/" target="_blank">
+  <a href="https://twitch.tv/NeonKatVT/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=2A2A2A&style=plastic" height="25" alt="twitch logo"  />
-  </a>
-  <a href="https://linktr.ee/NeonKatVT/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=2a2a2a&style=plastic" height="25" alt="linktree logo"  />
   </a>
 </div>
 
