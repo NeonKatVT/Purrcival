@@ -4,13 +4,10 @@
 
 ###
 
-<div align="center">
-  <img height="500" src="https://github.com/QM8782/QM8782/blob/main/hi.png?raw=true"  />
-</div>
+> [!NOTE]
+> Starfall Studios's apperance protocols is underway. I may be busy to do my side projects. ;\)
 
-###
-
-<p align="center">Hello! Welcome to my GitHub profile. I'm Purrcival, and this special repository serves as a window into my work and interests. While I'm passionate about coding and collaboration, you can also find me actively engaging with the community on various platforms. I'm always open to discussions and projects that push the boundaries of innovation. If you're interested in connecting and collaborating, feel free to reach out on Discord, or via other platforms.</p>
+Hello! Welcome to my GitHub profile. I'm Neon, and this special repository serves as a window into my work and interests. While I'm passionate about coding and collaboration, you can also find me actively engaging with the community on various platforms. I'm always open to discussions and projects that push the boundaries of innovation. If you're interested in connecting and collaborating, feel free to reach out on Discord, or via other platforms I'm also the proud founder of **Starfall Studios**, which [is currently on it's first phase](https://starfall-studios.carrd.co)!
 
 ###
 
@@ -21,37 +18,25 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Purrcival/count.svg?"  />
+  <img src="https://count.getloli.com/@NKVT?name=NKVT&theme=rule34&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Purrcival&theme=darkhub&column=7&row=4&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=NeonKatVT&theme=darkhub&column=7&row=4&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Purrcival&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=NeonKatVT&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=8&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Purrcival&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=8&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Purrcival&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=false&order=2" height="197" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purrcival&radius=16&theme=github-dark&area=true&order=5" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeonKatVT&radius=16&theme=github-dark&area=true&order=5" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -63,16 +48,16 @@
 ###
 
 <div align="center">
-  <a href="https://youtube.com/@PurrcivalYT" target="_blank">
+  <a href="https://youtube.com/@NeonKatVTYT" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=2A2A2A&style=plastic" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://instagram.com/purrcivalinsta" target="_blank">
+  <a href="https://instagram.com/NeonKatVTinsta" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=2A2A2A&style=plastic" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://twitch.tv/PurrcivalLive/" target="_blank">
+  <a href="https://twitch.tv/NeonKatVTLive/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=2A2A2A&style=plastic" height="25" alt="twitch logo"  />
   </a>
-  <a href="https://linktr.ee/Purrcival/" target="_blank">
+  <a href="https://linktr.ee/NeonKatVT/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=2a2a2a&style=plastic" height="25" alt="linktree logo"  />
   </a>
 </div>
@@ -87,14 +72,11 @@
 
 <div align="center">
 
-|Project Name| Progress/Status | Link | 
+| *Project Name* | *Progress/Status* | *Link* | 
 |--|--|--|
-| <Change:Tue Nov 12, 2024> OSBASE for OS makers in ComputerCraft - Will be part of COSC 2.0 | Working | Not published yet |
-| FOcelot | Working | Not published yet |
-| KinitoPET | On hold due to streaming | https://github.com/QM8782/KinitoPET |
-| LUM/MARINER | Working and Collaborating | https://github.com/AfellowSpeedrunner/LUM-MARINER |
-| Net Star OS | In development (On hold, Arch Transformation Underway) | Check the extensions channel on my Discord server via my linktree |
-| KaeyaAI | Working | Check the extensions channel on my Discord server via my linktree |
+| nikiAI Core | Waiting for hardware | [Visit to get us the hardware! Starfall Studios needs a device to handle the integrations!](https://throne.com/neonkatvt) |
+| LunaOS | Currently developing | Closed-source, until full code release! |
+| CCWindows 1.0 | Developing | Closed-source, until full code release! |
 
 </div>
 
@@ -136,49 +118,6 @@
 
 <h3 align="center">Learning now</h3>
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-</div>
+<p align="center">- - -</p>
 
 ###
-
-<!--
-> [!NOTE]\
-> I decided to quit CashApp. However I do recommend you joining REALITY Anime VTBuer streaming platform on mobile devices. I stream daily around near night in the eastern time. Hope to see you on stream or even stream events! <3
-
-> [!IMPORTANT]\
-> If you wish to contact me, do so by joining my discord for verification before I can chat by [clicking here](https://tinyurl.com/QM8782-DISCORD).
-
-![My furry avatar waving hi!](https://github.com/QM8782/QM8782/blob/main/hi.png?raw=true)
-![Welcome to my profile!](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Welcome+to+my+profile!)
-
-Hello! Welcome to my GitHub profile. I'm Purrcival, and this special repository serves as a window into my work and interests. While I'm passionate about coding and collaboration, you can also find me actively engaging with the community on various platforms. I'm always open to discussions and projects that push the boundaries of innovation. If you're interested in connecting and collaborating, feel free to reach out on [Discord](https://tinyurl.com/QM8782-DISCORD)!
-
-![Socials](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Socials)
-
-> [!NOTE]\
-> My social table is removed permanently. [Consider going to my linktree right here.](https://linktr.ee/Purrcival/)
-
-![Current works](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Current+works)
-
-|Project Name| Progress/Status | Link | 
-|--|--|--|
-| <Change:Tue Nov 12, 2024> OSBASE for OS makers in ComputerCraft - Will be part of COSC 2.0 | Working | Not published yet |
-| FOcelot | Working | Not published yet |
-| KinitoPET | On hold due to streaming | https://github.com/QM8782/KinitoPET |
-| LUM/MARINER | Working and Collaborating | https://github.com/AfellowSpeedrunner/LUM-MARINER |
-| Net Star OS | In development (On hold, Arch Transformation Underway) | Check the extensions channel on my Discord server |
-
-
-
-![Github Stats](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Github+Stats)
-
-![My stats, of course!](https://github-readme-stats.vercel.app/api?username=QM8782&show_icons=true&theme=dark#gh-dark-mode-only)
-
-![Profile visits](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Profile+visits)
-
-![QM8782-DISCORD](https://komarev.com/ghpvc/?username=QM8782)
-
--->
